@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing pan_tilt_video_sim.egg-info/PKG-INFO
+writing dependency_links to pan_tilt_video_sim.egg-info/dependency_links.txt
+writing entry points to pan_tilt_video_sim.egg-info/entry_points.txt
+writing requirements to pan_tilt_video_sim.egg-info/requires.txt
+writing top-level names to pan_tilt_video_sim.egg-info/top_level.txt
+reading manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+writing manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/python3.12/site-packages/pan-tilt-video-sim.egg-link (link to .)
+Installing controller script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+Installing gui_control script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+Installing simulator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+Installing target_generator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+
+Installed /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim
+running symlink_data

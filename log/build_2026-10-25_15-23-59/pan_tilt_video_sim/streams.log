@@ -1,0 +1,32 @@
+[1.289s] Invoking command in '/home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/build --no-deps symlink_data
+[1.576s] running develop
+[1.753s] running egg_info
+[1.753s] creating pan_tilt_video_sim.egg-info
+[1.770s] writing pan_tilt_video_sim.egg-info/PKG-INFO
+[1.770s] writing dependency_links to pan_tilt_video_sim.egg-info/dependency_links.txt
+[1.770s] writing entry points to pan_tilt_video_sim.egg-info/entry_points.txt
+[1.771s] writing requirements to pan_tilt_video_sim.egg-info/requires.txt
+[1.771s] writing top-level names to pan_tilt_video_sim.egg-info/top_level.txt
+[1.771s] writing manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+[1.804s] reading manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+[1.805s] writing manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+[1.823s] running build_ext
+[1.824s] Creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/python3.12/site-packages/pan-tilt-video-sim.egg-link (link to .)
+[1.824s] Installing controller script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+[1.824s] Installing simulator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+[1.824s] Installing target_generator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+[1.825s] 
+[1.825s] Installed /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim
+[1.825s] running symlink_data
+[1.825s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index
+[1.825s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index
+[1.825s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index/packages
+[1.826s] symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/resource/pan_tilt_video_sim -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index/packages
+[1.826s] symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/package.xml -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim
+[1.826s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/launch
+[1.826s] symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/launch/simulation.launch.py -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/launch
+[1.826s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/urdf
+[1.826s] symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/urdf/pan_tilt_video.urdf -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/urdf
+[1.826s] creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/config
+[1.826s] symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/config/display.rviz -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/config
+[1.883s] Invoked command in '/home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/build --no-deps symlink_data

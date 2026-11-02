@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating pan_tilt_video_sim.egg-info
+writing pan_tilt_video_sim.egg-info/PKG-INFO
+writing dependency_links to pan_tilt_video_sim.egg-info/dependency_links.txt
+writing entry points to pan_tilt_video_sim.egg-info/entry_points.txt
+writing requirements to pan_tilt_video_sim.egg-info/requires.txt
+writing top-level names to pan_tilt_video_sim.egg-info/top_level.txt
+writing manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+reading manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+writing manifest file 'pan_tilt_video_sim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/python3.12/site-packages/pan-tilt-video-sim.egg-link (link to .)
+Installing controller script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+Installing simulator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+Installing target_generator script to /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/lib/pan_tilt_video_sim
+
+Installed /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim
+running symlink_data
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index/packages
+symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/resource/pan_tilt_video_sim -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/ament_index/resource_index/packages
+symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/package.xml -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/launch
+symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/launch/simulation.launch.py -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/launch
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/urdf
+symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/urdf/pan_tilt_video.urdf -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/urdf
+creating /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/config
+symbolically linking /home/sachin/pan_tilt_sim_ws/build/pan_tilt_video_sim/config/display.rviz -> /home/sachin/pan_tilt_sim_ws/install/pan_tilt_video_sim/share/pan_tilt_video_sim/config

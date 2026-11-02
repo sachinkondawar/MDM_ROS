@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pan-tilt-video-sim
+Version: 1.0.0
+Summary: Video inspired pan tilt ROS 2 simulation with manual and autonomous control
+Maintainer: Sachin Kondawar
+Maintainer-email: kondawarsachin22@gmail.com
+License: Apache-2.0

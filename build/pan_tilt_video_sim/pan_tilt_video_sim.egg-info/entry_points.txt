@@ -1,0 +1,5 @@
+[console_scripts]
+controller = pan_tilt_video_sim.controller:main
+gui_control = pan_tilt_video_sim.gui_control:main
+simulator = pan_tilt_video_sim.simulator:main
+target_generator = pan_tilt_video_sim.target_generator:main
